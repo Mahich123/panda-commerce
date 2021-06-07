@@ -40,4 +40,17 @@
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
-
+.card-footer {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+#contactUS {
+    height: 300px;
+}
+#contactUS h6 {
+    color: grey;
+}
+footer {
+    text-align: center;
+}
