@@ -22,6 +22,7 @@
 .cat1,.cat2,.cat3 {
     padding: 10px 30px;
     border-radius: 10px;
+    margin-bottom: 10px;
 }
 .cat1 {
     background: orange
@@ -35,3 +36,8 @@
 .catagories h1 {
     color: #fff;
 }
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
