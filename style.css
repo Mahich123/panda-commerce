@@ -36,4 +36,8 @@
 .catagories h1 {
     color: #fff;
 }
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
 
