@@ -1,2 +1,2 @@
 # panda-commerce
-<a href ="#">Working</a>
+<a href ="https://mahich123.github.io/panda-commerce/">LIVE PREVIEW</a>
